@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DZ_4</string>
+    <string name="_1_fragment">1 Fragment</string>
+    <string name="_2_fragment">2 Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">first</string>
+    <string name="second">Second</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="menu">menu</string>
+    <string name="show_ferrari">Show Ferrari</string>
+    <string name="show_bmw">Show BMW</string>
+    <string name="exit">Exit</string>
+    <string name="bmw">BMW</string>
+</resources>
